@@ -36,7 +36,7 @@ class Migration1610022539 extends MigrationStep
             [
                 'name' => 'Rico Neitzel',
                 'description' => 'Shopware trainer',
-                'birthdate' => '1970-01-01',
+                'birthdate' => '1982-08-13',
             ],
             [
                 'name' => 'Jisse Reitsma',
