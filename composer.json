@@ -1,0 +1,17 @@
+{
+  "name": "swag-training/authors-sample-data",
+  "description": "Authors sample data",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\AuthorsSampleData\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\AuthorsSampleData\\SwagTrainingAuthorsSampleData",
+    "label": {
+      "en-GB": "Authors sample data"
+    }
+  }
+}
